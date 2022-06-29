@@ -1,0 +1,1125 @@
+[
+    {
+        "name": "top5_best_paid",
+        "rank": 1,
+        "course": {
+            "id": 153,
+            "external_id": "SIR",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Sistemas informáticos e Redes",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7993&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "<div><span style=\"line-height: 1.42857;\">Valorize-se com uma&nbsp;</span><span style=\"font-weight: 700;\">Certificação&nbsp;</span>“CompTIA A+”!<br></div><div><span style=\"line-height: 1.42857;\"><br></span></div><div><b>Curso com Acesso a Bolsa de Estágio e de Emprego</b></div>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "tecnicos, informatica, computadores, hardware, reparação, redes, sistemas informaticos",
+            "slug": "curso-de-sistemas-informaticos-e-redes",
+            "category": {
+                "id": 3,
+                "name": "Informática",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Informática.\r\n\r\n<style> .cta_container{background-color:#030222 !important; background-position:center bottom !important;} .cta_container_title h3, .cta_container_title p{color:#ffffff !important;} </style>",
+                "slug": "informatica",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/e709e6cbe9537030ba2ad5de33a8a053b789f07e.png"
+            },
+            "campaign": {
+                "name": "MasterD Técnicos",
+                "source_page_id": 1457,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#ffffff"
+        }
+    },
+    {
+        "name": "top5_best_paid",
+        "rank": 2,
+        "course": {
+            "id": 60,
+            "external_id": "DRO",
+            "is_active": false,
+            "is_external": false,
+            "name": "Programação Android",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=10821&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Aprenda a programar na plataforma líder em Mobile - Sistemas Android!<div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob Consulta",
+            "price": "Sob Consulta",
+            "tags": "técnicos, android,mobile,apps,tablet,programação,java,aplicações,aplicacoes,telemovel,telemoveis,telefone",
+            "slug": "programacao-android",
+            "category": {
+                "id": 3,
+                "name": "Informática",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Informática.\r\n\r\n<style> .cta_container{background-color:#030222 !important; background-position:center bottom !important;} .cta_container_title h3, .cta_container_title p{color:#ffffff !important;} </style>",
+                "slug": "informatica",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/e709e6cbe9537030ba2ad5de33a8a053b789f07e.png"
+            },
+            "campaign": {
+                "name": "MasterD Técnicos",
+                "source_page_id": 1457,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_best_paid",
+        "rank": 3,
+        "course": {
+            "id": 55,
+            "external_id": "ERM",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso Eventos, Relações Públicas e Marketing",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7983&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Podes ser um profissional num mundo global de eventos e comunicação.<div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob Consulta",
+            "tags": "inovação, eventos, relacoes publicas, relações públicas, comunicacao, comunicação, marketing, estudo mercado",
+            "slug": "curso-eventos-relacoes-publicas-e-marketing",
+            "category": {
+                "id": 2,
+                "name": "Marketing e Vendas",
+                "description": "<style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;} </style><div><div>Marketing e Vendas é uma área crucial para qualquer organização bem-sucedida. Oferece oportunidades de carreira como community manager, gestor comercial, analista de meios, relações públicas e outras similares.</div><div>Seleciona um curso para ver informações mais detalhadas.</div></div>",
+                "slug": "marketing-e-vendas",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/424deaf9fbef58f25e495fa9e45a90d4519e3509.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_best_paid",
+        "rank": 4,
+        "course": {
+            "id": 68,
+            "external_id": "MKDG",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Marketing Digital",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8465&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "<span style=\"line-height: 20px;\">Adquira conhecimentos ao nível da definição, coordenação, implementação e acompanhamento de estratégias de marketing digital!&nbsp;</span><br><span style=\"line-height: 20px;\"><br></span><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br><div class=\"clear\"></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob Consulta",
+            "tags": "tecnicos, marketing,mkt,marketing digital,mkt digital,web marketing,marketing online,mkt online, técnicos, tecnicos",
+            "slug": "curso-de-marketing-digital",
+            "category": {
+                "id": 2,
+                "name": "Marketing e Vendas",
+                "description": "<style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;} </style><div><div>Marketing e Vendas é uma área crucial para qualquer organização bem-sucedida. Oferece oportunidades de carreira como community manager, gestor comercial, analista de meios, relações públicas e outras similares.</div><div>Seleciona um curso para ver informações mais detalhadas.</div></div>",
+                "slug": "marketing-e-vendas",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/424deaf9fbef58f25e495fa9e45a90d4519e3509.png"
+            },
+            "campaign": {
+                "name": "MasterD Técnicos",
+                "source_page_id": 1457,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_best_paid",
+        "rank": 5,
+        "course": {
+            "id": 36,
+            "external_id": "cabeleireiro",
+            "is_active": false,
+            "is_external": false,
+            "name": "Cabeleireiro Unisexo",
+            "tracking_url": "http://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7964&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Torne-se num profissional da área da beleza! Curso de Cabeleireiro Técnico e Artístico<div><br></div><div><div><span style=\"font-weight: 700;\">Entidade Certificada pela DGERT.&nbsp;</span></div><div><span style=\"font-weight: 700;\">Formação Presencial e à Distância.</span></div><div><p class=\"p1\"></p><p class=\"p1\"><span class=\"s1\"><span style=\"font-weight: 700;\">Curso com&nbsp;Acesso a Bolsa de&nbsp;Estágio e de Emprego</span></span></p></div></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "cabeleireiro, corte, cabeleireira, cabelo, beleza, salão, salao, massagem, haibrushing, madeixas, madeichas, madeixa, madeicha, cabelerero, cabelu, belesa,sucesso, modateste",
+            "slug": "cabeleireiro-unisexo",
+            "category": {
+                "id": 6,
+                "name": "Beleza",
+                "description": "<div><font color=\"#ffffff\"><span style=\"line-height: 1.42857;\">O crescimento do mercado da Moda e Estética tornou fundamental a contratação de profissionais bem preparados. Oferece oportunidades de carreira em institutos de beleza, cabeleireiros, design de moda, confeção e outros similares.</span><br></font></div><div><span style=\"line-height: 20px;\"><font color=\"#ffffff\">Seleciona um curso para ver informações mais detalhadas.</font></span></div><style> .cta_container{background-color:#8EBABB !important; background-position:center bottom !important;} .cta_container_title h3, .cta_container_title p{color:#ffffff !important;} </style>",
+                "slug": "beleza",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/e5a89334225104b72317e9ffe341abf929d72fa5.png"
+            },
+            "campaign": {
+                "name": "CIT geral",
+                "source_page_id": 2401,
+                "_scholarity": [
+                    "less_than_9_grade",
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 2,
+                    "name": "CIT",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#FFF"
+        }
+    },
+    {
+        "name": "top5_employability",
+        "rank": 1,
+        "course": {
+            "id": 137,
+            "external_id": "ENR",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Energias Renováveis",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8487&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "O curso de Energias Renováveis ajuda a formar e preparar profissionais para trabalhar num sector estratégico. Esta formação pode incluir sessões práticas e possibilidade de acesso a estágio<div><br></div><div><b>Curso com Acesso a Bolsa de Estágio e de Emprego</b><br></div>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "energias renováveis, solares, térmicos, fotovoltaicos, eólicos, instalação, manutenção, tecnologia, energia, biomassa, energia eléctrica, aerogeradores",
+            "slug": "curso-de-energias-renovaveis",
+            "category": {
+                "id": 11,
+                "name": "Ambiente",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Ambiente,\r\n\r\n<style> .cta_container{background-color:#3B508F !important; background-position:center bottom !important;} .cta_container_title h3, .cta_container_title p{color:#ffffff !important;} </style>",
+                "slug": "ambiente",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/88b85172607ce341544e8a273602405f9b890b15.png"
+            },
+            "campaign": {
+                "name": "MasterD Técnicos",
+                "source_page_id": 1457,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#FFF"
+        }
+    },
+    {
+        "name": "top5_employability",
+        "rank": 2,
+        "course": {
+            "id": 72,
+            "external_id": "GSTA",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Gestão Agrícola",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7985&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Dirigido a todos os interessados em adquirir conhecimentos de <b>gestão </b>no âmbito de actividades relacionadas com a <b>agricultura e o meio rural</b>.<div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div>",
+            "location": {
+                "0": "continental",
+                "2": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "inovação, agricultura, agricultor, agricoltor, agronomo, agronomia, agrónomo, agrónoma, ambiente, vinho, vinhas, campo, agricoltora, agricola, agricula, agrícola, agrícula, ambienteteste",
+            "slug": "curso-de-gestao-agricola",
+            "category": {
+                "id": 11,
+                "name": "Ambiente",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Ambiente,\r\n\r\n<style> .cta_container{background-color:#3B508F !important; background-position:center bottom !important;} .cta_container_title h3, .cta_container_title p{color:#ffffff !important;} </style>",
+                "slug": "ambiente",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/88b85172607ce341544e8a273602405f9b890b15.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_employability",
+        "rank": 3,
+        "course": {
+            "id": 128,
+            "external_id": "PMD",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Desenvolvimento de Projetos Multimédia",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7995&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "O curso de&nbsp;<b>Desenvolvimento de Projetos Multimédia</b>&nbsp;é dirigido a todos os interessados em aprender as principais técnicas de produção de conteúdos e desenvolvimento de projetos multimédia, abordando algumas das ferramentas mais utilizadas.<br>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "multimédia, áudio, vídeo, imagem, gráficos, animações, web design, programação, técnicos, tecnicos",
+            "slug": "curso-de-desenvolvimento-de-projetos-multimedia",
+            "category": {
+                "id": 7,
+                "name": "Arte, Desenho e Fotografia",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Arte, Desenho e Fotografia.\r\n\r\n<style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;}</style>",
+                "slug": "arte-desenho-e-fotografia",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/0d88d3c95bc8968e4bf9016b209396cbccddf51c.png"
+            },
+            "campaign": {
+                "name": "MasterD Técnicos",
+                "source_page_id": 1457,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_employability",
+        "rank": 4,
+        "course": {
+            "id": 67,
+            "external_id": "TOG",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Tosquia e Grooming",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7991&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Adquire os conhecimentos sobre anatomia e fisiologia da pele e do pêlo do cão e gato, técnicas de higiene e limpeza, cuidados básicos, bem como as tosquias standards ou adequadas a cada raça.<div><div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob Consulta",
+            "tags": "inovação, tosquia, grooming, veterinario, veterinário, veterinária, veterinaria, canino, canina, cão, cao, cães, caes, cabeleireiro, cabeleireira, cabeleireiros, cabeleireiras",
+            "slug": "curso-de-tosquia-e-grooming",
+            "category": {
+                "id": 15,
+                "name": "Cuidados Animais",
+                "description": "<div>Se gostas de animais o sector de Cuidados Animais é ideal ti. Esta área oferece muitas oportunidades de carreira para trabalhar em clínicas e hospitais veterinários, pet shops, centros de estética canina ou para possuir negócio próprio.</div><div>Seleciona um curso para ver informações mais detalhadas.</div><style> .cta_container{background-color:#FFF!important; background-position:center bottom !important;}</style>",
+                "slug": "cuidados-animais",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/29b2346974db59b56b87bec4199c90dde1cedd96.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_employability",
+        "rank": 5,
+        "course": {
+            "id": 153,
+            "external_id": "SIR",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Sistemas informáticos e Redes",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7993&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "<div><span style=\"line-height: 1.42857;\">Valorize-se com uma&nbsp;</span><span style=\"font-weight: 700;\">Certificação&nbsp;</span>“CompTIA A+”!<br></div><div><span style=\"line-height: 1.42857;\"><br></span></div><div><b>Curso com Acesso a Bolsa de Estágio e de Emprego</b></div>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "tecnicos, informatica, computadores, hardware, reparação, redes, sistemas informaticos",
+            "slug": "curso-de-sistemas-informaticos-e-redes",
+            "category": {
+                "id": 3,
+                "name": "Informática",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Informática.\r\n\r\n<style> .cta_container{background-color:#030222 !important; background-position:center bottom !important;} .cta_container_title h3, .cta_container_title p{color:#ffffff !important;} </style>",
+                "slug": "informatica",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/e709e6cbe9537030ba2ad5de33a8a053b789f07e.png"
+            },
+            "campaign": {
+                "name": "MasterD Técnicos",
+                "source_page_id": 1457,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#ffffff"
+        }
+    },
+    {
+        "name": "top5_labor_exchange",
+        "rank": 1,
+        "course": {
+            "id": 63,
+            "external_id": "TXS",
+            "is_active": true,
+            "is_external": false,
+            "name": "Auxiliar de Saúde",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8125&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Fica apto a prestar apoio no trabalho diário de<b> prestação de cuidados de saúde aos utentes</b>. Exerce em diversas instituições como hospitais, clínicas, lares, centros e unidades de saúde &nbsp;<div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob Consulta",
+            "tags": "inovação, auxiliar, auxiliar saude, saúde, saude, medica, medico, enfermaria, enfermeira, enfermeiro, limpeza, inem, sbv, suporte basico de vida, salutar, desporto",
+            "slug": "auxiliar-de-saude",
+            "category": {
+                "id": 4,
+                "name": "Saúde",
+                "description": "<div><div>A Saúde é um sector em rápida expansão que oferece diversas&nbsp;<span style=\"line-height: 1.42857;\">oportunidades de carreira em hospitais, centros de saúde, clínicas, centros de reabilitação e empresas similares.</span></div><div>Seleciona um curso para ver informações mais detalhadas.</div></div><style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;}</style>",
+                "slug": "saude",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/83f1b30f6a993da52df5de040170670d0ff899ae.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_labor_exchange",
+        "rank": 2,
+        "course": {
+            "id": 68,
+            "external_id": "MKDG",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Marketing Digital",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8465&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "<span style=\"line-height: 20px;\">Adquira conhecimentos ao nível da definição, coordenação, implementação e acompanhamento de estratégias de marketing digital!&nbsp;</span><br><span style=\"line-height: 20px;\"><br></span><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br><div class=\"clear\"></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob Consulta",
+            "tags": "tecnicos, marketing,mkt,marketing digital,mkt digital,web marketing,marketing online,mkt online, técnicos, tecnicos",
+            "slug": "curso-de-marketing-digital",
+            "category": {
+                "id": 2,
+                "name": "Marketing e Vendas",
+                "description": "<style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;} </style><div><div>Marketing e Vendas é uma área crucial para qualquer organização bem-sucedida. Oferece oportunidades de carreira como community manager, gestor comercial, analista de meios, relações públicas e outras similares.</div><div>Seleciona um curso para ver informações mais detalhadas.</div></div>",
+                "slug": "marketing-e-vendas",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/424deaf9fbef58f25e495fa9e45a90d4519e3509.png"
+            },
+            "campaign": {
+                "name": "MasterD Técnicos",
+                "source_page_id": 1457,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_labor_exchange",
+        "rank": 3,
+        "course": {
+            "id": 38,
+            "external_id": "ADV",
+            "is_active": true,
+            "is_external": false,
+            "name": "Auxiliar de Veterinária",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7979&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Se tens <b>gosto por animais</b> este curso é para ti! Exerce funções na área de <b>prestação de cuidados </b>aos animais.<div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "inovação, saude,saúde,veterinária,veterinaria,auxiliar,inovacao, sucesso, desporto",
+            "slug": "auxiliar-de-veterinaria",
+            "category": {
+                "id": 15,
+                "name": "Cuidados Animais",
+                "description": "<div>Se gostas de animais o sector de Cuidados Animais é ideal ti. Esta área oferece muitas oportunidades de carreira para trabalhar em clínicas e hospitais veterinários, pet shops, centros de estética canina ou para possuir negócio próprio.</div><div>Seleciona um curso para ver informações mais detalhadas.</div><style> .cta_container{background-color:#FFF!important; background-position:center bottom !important;}</style>",
+                "slug": "cuidados-animais",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/29b2346974db59b56b87bec4199c90dde1cedd96.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#73BEC3"
+        }
+    },
+    {
+        "name": "top5_labor_exchange",
+        "rank": 4,
+        "course": {
+            "id": 37,
+            "external_id": "AEIB",
+            "is_active": true,
+            "is_external": false,
+            "name": "Auxiliar de Educação Infantil e Babysitting",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8457&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Tens vocação para crianças?<div>Este curso prepara-te para ser um profissional no cuidado, segurança, entretenimento, ocupação e alimentação das crianças.</div><div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "inovação, formação,formacao,formaçao,formacão,educação,educacao,educacão,educadora de infancia,educadora de infância,educadora infantil,auxiliar educação infantil,auxiliar educacao infantil,auxiliar",
+            "slug": "auxiliar-de-educacao-infantil-e-babysitting",
+            "category": {
+                "id": 10,
+                "name": "Formação e Educação",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Formação e Educação.\r\n\r\n<style>\r\n.cta_container{background-color:#578657 !important; background-position:center bottom !important;}\r\n.cta_container_title h3, .cta_container_title p{color:#ffffff !important;}\r\n\r\n</style>",
+                "slug": "formacao-e-educacao",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/ebd4441573feae3ba2967ec3e9db5ac89270feb2.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#82676B"
+        }
+    },
+    {
+        "name": "top5_labor_exchange",
+        "rank": 5,
+        "course": {
+            "id": 154,
+            "external_id": "AAF",
+            "is_active": true,
+            "is_external": false,
+            "name": "Assistente Administrativo-Financeiro",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8469&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "<div>Neste curso, vais aprender a tratar do expediente geral de escritório e a gerir documentos contabilísticos.<br></div><div><br></div><div><span style=\"font-weight: 700;\">Curso com&nbsp;</span><span style=\"font-weight: 700;\">Acesso a Bolsa de</span><span style=\"font-weight: 700;\">&nbsp;Estágio e de Emprego</span><br></div>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "inovação, administrativo, administrativa, secretaria, secretária, finanças, financeira, financeiro, contabilidade, tesouraria, cobranças",
+            "slug": "assistente-administrativo-financeiro",
+            "category": {
+                "id": 1,
+                "name": "Gestão e Finanças",
+                "description": "<style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;}</style><div>Gestão e Finanças é uma área fundamental para o sucesso de qualquer empresa. Este sector oferece oportunidades de carreira em escritórios de advogados, contabilidade, bancos e empresas similares.<br></div><div>Seleciona um curso para ver informações mais detalhadas.<br></div><div><br></div>",
+                "slug": "gestao-e-financas",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/b8304d9df89d06294971a44451160a6e8e958848.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_most_wanted",
+        "rank": 1,
+        "course": {
+            "id": 85,
+            "external_id": "AAR",
+            "is_active": true,
+            "is_external": false,
+            "name": "Assistente Administrativo e Rececionista",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7977&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "As funções de um <b>assistente administrativo </b>têm vindo a tornar-se cada vez mais abrangentes. Adquira conhecimentos na área administrativa e de recepção.&nbsp;<div><br><div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div></div></div>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "Sob consulta",
+            "price": "Sob consulta",
+            "tags": "inovação, administrativo, administrativa, rececionista, recepcionista, concierge, secretaria, secretária, assistente, asistente, recepção, recepcao, sucesso",
+            "slug": "assistente-administrativo-e-rececionista",
+            "category": {
+                "id": 1,
+                "name": "Gestão e Finanças",
+                "description": "<style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;}</style><div>Gestão e Finanças é uma área fundamental para o sucesso de qualquer empresa. Este sector oferece oportunidades de carreira em escritórios de advogados, contabilidade, bancos e empresas similares.<br></div><div>Seleciona um curso para ver informações mais detalhadas.<br></div><div><br></div>",
+                "slug": "gestao-e-financas",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/b8304d9df89d06294971a44451160a6e8e958848.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_most_wanted",
+        "rank": 2,
+        "course": {
+            "id": 67,
+            "external_id": "TOG",
+            "is_active": true,
+            "is_external": false,
+            "name": "Curso de Tosquia e Grooming",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=7991&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Adquire os conhecimentos sobre anatomia e fisiologia da pele e do pêlo do cão e gato, técnicas de higiene e limpeza, cuidados básicos, bem como as tosquias standards ou adequadas a cada raça.<div><div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob Consulta",
+            "tags": "inovação, tosquia, grooming, veterinario, veterinário, veterinária, veterinaria, canino, canina, cão, cao, cães, caes, cabeleireiro, cabeleireira, cabeleireiros, cabeleireiras",
+            "slug": "curso-de-tosquia-e-grooming",
+            "category": {
+                "id": 15,
+                "name": "Cuidados Animais",
+                "description": "<div>Se gostas de animais o sector de Cuidados Animais é ideal ti. Esta área oferece muitas oportunidades de carreira para trabalhar em clínicas e hospitais veterinários, pet shops, centros de estética canina ou para possuir negócio próprio.</div><div>Seleciona um curso para ver informações mais detalhadas.</div><style> .cta_container{background-color:#FFF!important; background-position:center bottom !important;}</style>",
+                "slug": "cuidados-animais",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/29b2346974db59b56b87bec4199c90dde1cedd96.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_most_wanted",
+        "rank": 3,
+        "course": {
+            "id": 66,
+            "external_id": "ACDT",
+            "is_active": true,
+            "is_external": false,
+            "name": "Auxiliar de Clínica Dentária",
+            "tracking_url": "https://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8463&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Adquira conhecimentos de <b>Auxiliar de Clínica Dentária</b>&nbsp;e mude o seu percurso profissional! Exerça funções em hospitais ou clínicas.<div><br></div><div><b>Curso com&nbsp;</b><b>Acesso a Bolsa de</b><b>&nbsp;Estágio e de Emprego</b><br></div>",
+            "location": {
+                "0": "continental",
+                "1": "online"
+            },
+            "duration": "Sob consulta",
+            "price": "Sob Consulta",
+            "tags": "inovação, dentista, dentistas, dental, dentária, dentaria, dentario, dentário, dente, boca, oral, clinica, clínica, auxiliar, salutar",
+            "slug": "auxiliar-de-clinica-dentaria",
+            "category": {
+                "id": 4,
+                "name": "Saúde",
+                "description": "<div><div>A Saúde é um sector em rápida expansão que oferece diversas&nbsp;<span style=\"line-height: 1.42857;\">oportunidades de carreira em hospitais, centros de saúde, clínicas, centros de reabilitação e empresas similares.</span></div><div>Seleciona um curso para ver informações mais detalhadas.</div></div><style> .cta_container{background-color:#eaeaea !important; background-position:center bottom !important;}</style>",
+                "slug": "saude",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/83f1b30f6a993da52df5de040170670d0ff899ae.png"
+            },
+            "campaign": {
+                "name": "MasterD Inovação",
+                "source_page_id": 1338,
+                "_scholarity": [
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 1,
+                    "name": "Master D",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#FFF"
+        }
+    },
+    {
+        "name": "top5_most_wanted",
+        "rank": 4,
+        "course": {
+            "id": 125,
+            "external_id": "AXAE",
+            "is_active": false,
+            "is_external": false,
+            "name": "Auxiliar de Acção Educativa",
+            "tracking_url": "http://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=8501&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "<div>A educação é uma actividade profissional que desempenha um papel muito importante na sociedade.<b><br></b></div><div><br></div><div><span style=\"font-weight: 700;\">Entidade Certificada pela DGERT.&nbsp;</span></div><div><span style=\"font-weight: 700;\">Formação Presencial e à Distância.</span></div><div><p class=\"p1\"></p><p class=\"p1\"><span class=\"s1\"><span style=\"font-weight: 700;\">Curso com&nbsp;Acesso a Bolsa de&nbsp;Estágio e de Emprego</span></span></p></div>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "850h",
+            "price": "Sob consulta",
+            "tags": "educação, puericultura, crianças, menino, menina, infantário, atl, creche, sucesso",
+            "slug": "auxiliar-de-accao-educativa",
+            "category": {
+                "id": 10,
+                "name": "Formação e Educação",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Formação e Educação.\r\n\r\n<style>\r\n.cta_container{background-color:#578657 !important; background-position:center bottom !important;}\r\n.cta_container_title h3, .cta_container_title p{color:#ffffff !important;}\r\n\r\n</style>",
+                "slug": "formacao-e-educacao",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/ebd4441573feae3ba2967ec3e9db5ac89270feb2.png"
+            },
+            "campaign": {
+                "name": "Cit Lisboa",
+                "source_page_id": 1337,
+                "_scholarity": [
+                    "less_than_9_grade",
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 2,
+                    "name": "CIT",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#fff"
+        }
+    },
+    {
+        "name": "top5_most_wanted",
+        "rank": 5,
+        "course": {
+            "id": 185,
+            "external_id": "DREA",
+            "is_active": false,
+            "is_external": false,
+            "name": "Diagnóstico e Reparação Eletrónica Automóvel",
+            "tracking_url": "http://ad.track1v.com/aff_c?offer_id=920&aff_id=1366&aff_sub=371_-jobtide&url_id=10571&utm_source=Blog&utm_medium=NPaid&utm_term=JobtideV1",
+            "short_description": "Se queres apostar numa carreira profissional na área de reparação de Sistemas Eletrónicos de Automóveis... este curso é para ti!<div><br></div><div><span style=\"font-weight: 700;\">Entidade&nbsp;</span><span style=\"font-weight: 700;\">Certificada&nbsp;</span><span style=\"font-weight: 700;\">pela DGERT</span><br></div>",
+            "location": [
+                "continental",
+                "online"
+            ],
+            "duration": "100 horas",
+            "price": "Sob Consulta",
+            "tags": "automóvel, reparação automóvel, eletrónica, eletrónica automóvel, desporto",
+            "slug": "diagnostico-e-reparacao-eletronica-automovel",
+            "category": {
+                "id": 5,
+                "name": "Eletrónica e Mecânica",
+                "description": "Aqui poderás encontrar a nossa oferta formativa para cursos na área de Eletrónica e Mecânica.\r\n\r\n<style>\r\n.cta_container{background-color:#eaeaea !important; background-position:center bottom !important;}\r\n</style>",
+                "slug": "eletronica-e-mecanica",
+                "icon_url": "https://images-formacao.jobtide.pt/assets/icon/0001/01/0b155c7e7c8d3a3615025b0ef55ed8361f307243.png"
+            },
+            "campaign": {
+                "name": "Cit Lisboa",
+                "source_page_id": 1337,
+                "_scholarity": [
+                    "less_than_9_grade",
+                    "9_grade",
+                    "10_grade",
+                    "11_grade",
+                    "12_grade",
+                    "bachelor_degree",
+                    "college_degree",
+                    "posgrad",
+                    "master_degree",
+                    "phd"
+                ],
+                "entity": {
+                    "id": 2,
+                    "name": "CIT",
+                    "entity_benefits": [
+                        [],
+                        [],
+                        [],
+                        []
+                    ]
+                },
+                "campaign_benefits": []
+            },
+            "course_benefits": [],
+            "background_color": "#FFF"
+        }
+    }
+]
